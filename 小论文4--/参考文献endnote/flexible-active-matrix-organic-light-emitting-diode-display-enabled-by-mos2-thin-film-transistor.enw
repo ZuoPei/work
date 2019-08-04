@@ -1,0 +1,16 @@
+%0 Journal Article
+%A Choi, Minwoo
+%A Park, Yong Ju
+%A Sharma, Bhupendra K.
+%A Bae, Sa-Rang
+%A Kim, Soo Young
+%A Ahn, Jong-Hyun
+%T Flexible active-matrix organic light-emitting diode display enabled by MoS<sub>2</sub> thin-film transistor
+%D 2018
+%R 10.1126/sciadv.aas8721
+%J Science Advances
+%V 4
+%N 4
+%X Atomically thin molybdenum disulfide (MoS2) has been extensively investigated in semiconductor electronics but has not been applied in a backplane circuitry of organic light-emitting diode (OLED) display. Its applicability as an active drive element is hampered by the large contact resistance at the metal/MoS2 interface, which hinders the transport of carriers at the dielectric surface, which in turn considerably deteriorates the mobility. Modified switching device architecture is proposed for efficiently exploiting the high-k dielectric Al2O3 layer, which, when integrated in an active matrix, can drive the ultrathin OLED display even in dynamic folding states. The proposed architecture exhibits 28 times increase in mobility compared to a normal back-gated thin-film transistor, and its potential as a wearable display attached to a human wrist is demonstrated.
+%U http://advances.sciencemag.org/content/advances/4/4/eaas8721.full.pdf
+
